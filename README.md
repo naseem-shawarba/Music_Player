@@ -4,7 +4,7 @@ Welcome to the Music Player Website! This platform allows users to search for, d
 * React.js
 * Tailwind CSS
 * Redux
-* JavaScipt
+* JavaScript
 
 ## Screenshots
 
